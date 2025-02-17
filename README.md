@@ -18,11 +18,11 @@ Installation Steps:
   cd <project-directory>
   
 3. Install dependencies:
-  composer install
+  composer install,
   npm install
   
 4. Set up environment file:
-  cp .env.example .env
+  cp .env.example .env,
   php artisan key:generate
   
 5. Update the .env file with your database credentials.
