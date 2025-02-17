@@ -4,9 +4,9 @@ Prerequisites
 
 Make sure you have the following installed on your system:
 
-PHP
-Composer
-Laravel
+PHP,
+Composer,
+Laravel,
 Node.js & npm
 
 
